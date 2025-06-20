@@ -29,3 +29,7 @@ On Debian/Ubuntu you can install them like:
 sudo apt update
 sudo apt install fzf mpv
 ```
+
+## Support
+
+Support/donate to [SomaFM](https://somafm.com/support/) if you can!
